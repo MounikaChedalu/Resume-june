@@ -153,6 +153,9 @@ body {
     margin-bottom: 0px;
     padding: 40px;
 }
+.box a{
+    text-decoration: underline;
+}
 
 .box ul li {
     padding: 10px;
@@ -161,9 +164,6 @@ body {
 .title1 ul li {
     padding: 10px;
     margin-top: -10px;
-}
-.box a {
-    text-decoration: none;
 }
 .line ul li {
     position: relative;
