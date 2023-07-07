@@ -5,7 +5,7 @@
     font-family:Arial, Helvetica, sans-serif
 }
 body {
-    background-color: lightblue;
+    /* background-color: lightblue; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -21,12 +21,12 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
-    font-size: x-large;
+    font-size: 2em;
 }
 .container .left_side {
     position: relative;
     background-color:#003147;
-    padding: 9px;
+    padding: 10px;
 }
 .profile {
     position: relative;
@@ -52,7 +52,7 @@ body {
 }
 .profile h2 {
     color: white;
-    font-size: 1.6em;
+    font-size: 1.5em;
     margin-top: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -73,6 +73,9 @@ body {
    letter-spacing: 1px;
    margin-bottom: 20px;
 }
+.contact .title{
+    font-size: 1em;
+}
 .contact ul {
     position: relative;
 }
@@ -84,7 +87,7 @@ body {
 .contact ul li .icon {
     display: inline-block;
     width: 10px;
-    font-size: 18px;
+    font-size: 16px;
     color: teal;
     margin-right: 10px;
 }
@@ -188,7 +191,7 @@ body {
 	top: 16px;
 	left: -36px;
 	width: 2px;
-	height: 210px;
+	height: 350px;
 	border-left:2px solid black;
 }
 .intrest .title1{
