@@ -21,6 +21,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+    font-size: x-large;
 }
 .container .left_side {
     position: relative;
@@ -187,7 +188,7 @@ body {
 	top: 16px;
 	left: -36px;
 	width: 2px;
-	height: 145px;
+	height: 290px;
 	border-left:2px solid black;
 }
 .intrest .title1{
