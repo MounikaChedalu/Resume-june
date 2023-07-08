@@ -76,6 +76,9 @@ body {
 .contact ul {
     position: relative;
 }
+.contact .title{
+    font-size: 1em;
+}
 .contact ul li {
     list-style: none;
     position: relative;
@@ -188,7 +191,7 @@ body {
 	top: 16px;
 	left: -36px;
 	width: 2px;
-	height: 290px;
+	height: 210px;
 	border-left:2px solid black;
 }
 .intrest .title1{
