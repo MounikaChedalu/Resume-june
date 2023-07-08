@@ -14,19 +14,19 @@ body {
 .container {
     position: relative;
     width: 100%;
-    max-width: 100%;
+    max-width: 1500px;
     min-height: 1000px;
     background-color: white;
     margin: 50px;
     display: grid;
     grid-template-columns: 1fr 2fr;
     box-shadow: 0 35px 55px rgba(0,0,0,0.1);
-    font-size: 1.8em;
+    font-size: x-large;
 }
 .container .left_side {
     position: relative;
     background-color:#003147;
-    padding: 10px;
+    padding: 9px;
 }
 .profile {
     position: relative;
@@ -52,7 +52,7 @@ body {
 }
 .profile h2 {
     color: white;
-    font-size: 1.5em;
+    font-size: 1.6em;
     margin-top: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -73,9 +73,6 @@ body {
    letter-spacing: 1px;
    margin-bottom: 20px;
 }
-.contact .title{
-    font-size: 1em;
-}
 .contact ul {
     position: relative;
 }
@@ -84,13 +81,10 @@ body {
     position: relative;
     margin: 10px 0;
 }
-.contact ul li .text{
-    font-size: xx-large;
-}
 .contact ul li .icon {
     display: inline-block;
     width: 10px;
-    font-size: 20px;
+    font-size: 18px;
     color: teal;
     margin-right: 10px;
 }
@@ -194,7 +188,7 @@ body {
 	top: 16px;
 	left: -36px;
 	width: 2px;
-	height: 350px;
+	height: 290px;
 	border-left:2px solid black;
 }
 .intrest .title1{
