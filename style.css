@@ -84,10 +84,13 @@ body {
     position: relative;
     margin: 10px 0;
 }
+.contact ul li .text{
+    font-size: xx-large;
+}
 .contact ul li .icon {
     display: inline-block;
     width: 10px;
-    font-size: 16px;
+    font-size: 20px;
     color: teal;
     margin-right: 10px;
 }
